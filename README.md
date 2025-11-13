@@ -44,7 +44,7 @@ This server transforms industrial infrastructure into an AI-orchestrable system,
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iot-mcp-server.git
+git clone https://github.com/llm-use/iot-mcp-server.git
 cd iot-mcp-server
 
 # Install dependencies
@@ -259,7 +259,7 @@ Contributions are welcome! This project demonstrates industrial IoT integration 
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/iot-mcp-server.git
+git clone https://github.com/llm-use/iot-mcp-server.git
 
 # Create virtual environment
 python -m venv venv
