@@ -58,7 +58,7 @@ pip install -r requirements-sim.txt
 
 **Option 1: Simulation Mode (No Hardware Required)**
 ```bash
-python iot_mcp_server_sim.py
+python IoT_mcp_sim.py
 ```
 
 **Option 2: Production Mode (Real Hardware)**
@@ -68,7 +68,7 @@ python iot_mcp_server_sim.py
 docker-compose up -d
 
 # Start the server
-python iot_mcp_server.py
+python IoT_mcp.py
 ```
 
 Server will start on `http://localhost:8000`
