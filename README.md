@@ -2,6 +2,8 @@
 
 # IoT/Edge MCP Server
 
+[![Featured Article](https://img.shields.io/badge/Read-Article-blue)](https://pub.towardsai.net/someone-built-an-ai-interface-for-industrial-equipment-and-its-kind-of-wild-784a996627ef)
+
 **Model Context Protocol (MCP) server for Industrial IoT, Edge Computing and Automation**
 
 This server transforms industrial infrastructure into an AI-orchestrable system, exposing 11 powerful tools for complete IoT/SCADA/PLC control via HTTP endpoints. Perfect for AI-driven industrial automation, predictive maintenance, and smart factory operations.
